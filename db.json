@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Chair",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Metal Pants",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Practical Concrete Computer",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Metal Ball",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Plastic Chair",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Frozen Shoes",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Rubber Bacon",
+      "id": 22
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26460",
+      "id": 22
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41812",
+      "id": 33
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71983",
+      "id": 34
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58",
+      "id": 35
+    }
+  ]
+}
